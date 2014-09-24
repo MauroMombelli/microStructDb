@@ -18,4 +18,4 @@ this will be the base of ongoin development of custom firmaware for custom drone
 
 this code is based on multiple input, see full story here http://stackoverflow.com/questions/26005389/array-of-struct-and-sizeof
 
-again thanks to +FrancescoNero for its invaluable help
+thanks to +FrancescoNero for its invaluable help
