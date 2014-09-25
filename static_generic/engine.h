@@ -1,3 +1,5 @@
+#include <memory.h>
+
 #include "user_data/struct.h"
 
 /* this macro will create the right X macro element, and also initiliaze the "anonymous" struct */
